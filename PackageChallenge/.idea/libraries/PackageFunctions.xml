@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="PackageFunctions">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../PackageFunctions/out/artifacts/PackageFunctions_jar/PackageFunctions.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
